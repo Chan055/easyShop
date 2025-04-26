@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # easyshop
 
 A new Flutter project.
@@ -17,4 +17,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # easyShop
->>>>>>> 9e738735b58416f1e9c2d03701454616071af823
+

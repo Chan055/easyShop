@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # Mobile Final Exam: EasyShop
+=======
+
+# easyshop
+>>>>>>> origin/main
 
 ## 1. App Concept and Design
 
@@ -16,6 +21,7 @@
 - Create multiple lists (e.g., home goods, groceries)
 - Track items that need to be bought
 
+<<<<<<< HEAD
 [GitHub Repository](https://github.com/Chan055/easyShop)  
 [APK File](https://github.com/Chan055/easyShop/blob/main/easyshop_apk/app-release.apk.zip)
 
@@ -173,3 +179,11 @@
 - Complete all sections of the report.
 - Attach GitHub repository link and installation file (APK/IPA).
 - Provide a reflection and use AI insights effectively.
+=======
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+=======
+# easyShop
+
+>>>>>>> origin/main
